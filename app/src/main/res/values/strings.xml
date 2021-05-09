@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">러닝</string>
+    <string name="tab_1">바로 시작</string>
+    <string name="tab_2">러닝 가이드</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
